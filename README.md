@@ -24,8 +24,6 @@ npm run dev
 
 **Open your browser:** http://localhost:8081
 
-For detailed setup, see [QUICK_START.md](./QUICK_START.md)
-
 ## 📋 Features
 
 ✅ **Frontend**
