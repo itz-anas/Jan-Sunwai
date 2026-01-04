@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+citizen-connect-backend/.env
+
+# Instruction and Guide Files
+*GUIDE*.md
+*SETUP*.md
+*DEPLOYMENT*.md
+*INTEGRATION*.md
+*QUICK_START*.md
+*README*.md
+*STATUS*.md
+*SUMMARY*.md
+*VERIFICATION*.md
+*AWS*.md
+*.instruction
+*.guide
+
+
+.env
+.env.local
+.env.example
