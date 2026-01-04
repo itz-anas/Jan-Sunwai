@@ -92,12 +92,6 @@ npm run start:backend   # Start backend server
 npm run dev:backend     # Start with auto-reload
 ```
 
-## 📚 Documentation
-
-- [QUICK_START.md](./QUICK_START.md) - Quick setup guide
-- [SETUP_GUIDE.md](./SETUP_GUIDE.md) - Detailed setup instructions
-- [INTEGRATION_STATUS.md](./INTEGRATION_STATUS.md) - Technical integration details
-
 ## 🔐 Environment Variables
 
 ### Frontend (.env)
